@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // utils
 function showToast(message, type = 'info', duration = 3000) {
   const container = document.getElementById('toast-container');
@@ -818,4 +818,4 @@ function convertCurrency() {
       resultDiv.innerText = "Error fetching conversion rates.";
     });
 }
->>>>>>> 1c90005 (Newly Added Crypto Price Tracker with +/- 24% change)
+
